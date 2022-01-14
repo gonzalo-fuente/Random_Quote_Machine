@@ -3,7 +3,9 @@
 Front End Development Libraries Certification.
 FreeCodeCamp first excercise.
 
-ulfill the below user stories and get all of the tests to pass. Give it your own personal style.
+[Link to the site!](https://gonzalo-fuente.github.io/Random_Quote_Machine/)
+
+Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
 
 You can use any mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and jQuery to complete this project. You should use a frontend framework (like React for example) because this section is about learning frontend frameworks. Happy coding!
 
